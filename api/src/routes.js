@@ -19,7 +19,7 @@ const Planta = require("./controllers/planta");
 routes.get("/plantas", Planta.readAll);
 routes.get("/plantas/:id", Planta.readOne);
 routes.post("/plantas", Planta.create);
-routes.put("/plantas/:id", Planta.update);
+routes.patch("/plantas/:id", Planta.update);
 routes.delete("/plantas/:id", Planta.del);
 
 module.exports = routes;
