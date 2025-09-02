@@ -1,0 +1,15 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family:georgia;
+}
+
+:root{
+  --c1: rgba(14, 206, 142, 1);
+  --c2: rgba(58, 151, 78, 0.6);
+  --c3: rgba(82, 190, 181, 1);
+  --c4: rgba(193, 238, 199, 1);
+  --t1: rgba(255, 255, 255, 0.5);
+  --t2: rgba(0, 0, 0, 0.5);
+}
