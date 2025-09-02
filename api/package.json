@@ -1,9 +1,9 @@
 {
   "name": "catalogoapi",
   "version": "1.0.0",
-  "main": "server.js",
+  "main": "api/server.js",
   "scripts": {
-    "dev": "npx nodemon server.js"
+    "dev": "npx nodemon api/server.js"
   },
   "keywords": [],
   "author": "rebecalazarini",
